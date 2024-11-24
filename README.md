@@ -1,5 +1,7 @@
-## Hi there 👋
 
+ <h1 align='center'>Rutuja Mane</h1>                                                                
+
+<p><a href="https://github.com/rutujamane24">(https://readme-typing-svg.herokuapp.com?font=roboto&weight=500&pause=1000&width=435&lines=Hi%2CI+am+Rutuja+mane+%F0%9F%98%8A;Software+Developer)](https://git.io/typing-svg)</p>
 <!--
 **rutujamane24/rutujamane24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
